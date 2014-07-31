@@ -1,0 +1,16 @@
+/*
+ Theme Name:     MattJBishop Lean
+ Theme URI:      http://mattjbishop.com/
+ Description:    Child theme for mattjbishop.com based on the Lean Theme
+ Author:         Matt Bishop
+ Author URI:     http://www.mattjbishop.com
+ License:        GNU General Public License v3.0 or later
+ License URI:    http://www.gnu.org/licenses/gpl-3.0.html
+ Template:       lean
+ Version:        0.0.2
+*/
+
+@import url("../lean/style.css"); 
+
+/* =Theme customization starts here
+------------------------------------------------------- */
